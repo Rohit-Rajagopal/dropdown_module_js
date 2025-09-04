@@ -1,5 +1,8 @@
 # dropdown_module_js
 A dropdown menu implementation.
+```bash
+npm i @craze98101/dropdown-menu
+```
 Note: Must be used with Webpack (or any other bundler that can load css files)
 
 ## Usage
