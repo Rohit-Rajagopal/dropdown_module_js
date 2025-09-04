@@ -1,0 +1,19 @@
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: white;
+    border: 1px solid #ccc;
+    min-width: 160px;
+    z-index: 1000;
+    display: none;
+}
+
+.dropdown-menu.show {
+  display: block;
+}
